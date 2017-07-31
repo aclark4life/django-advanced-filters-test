@@ -1,3 +1,7 @@
-Django
-dj-database-url
-
+Django==1.11.3
+dj-database-url==0.4.2
+django-advanced-filters==1.0.5
+django-braces==1.4.0
+pytz==2017.2
+simplejson==3.6.5
+six==1.10.0
