@@ -8,3 +8,4 @@ from django.contrib import admin
 class TestAdmin(admin.ModelAdmin):
     """
     """
+    search_fields = ('test_1', )
